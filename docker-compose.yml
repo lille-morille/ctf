@@ -1,7 +1,7 @@
-version: '3.8'
-
 services:
   ctf:
+    container_name: ctf
+    image: ctf
     build: 
       context: .
       dockerfile: Dockerfile

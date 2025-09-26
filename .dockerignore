@@ -5,3 +5,4 @@ README.md
 *.log
 Dockerfile
 .dockerignore
+docker-compose.yml
